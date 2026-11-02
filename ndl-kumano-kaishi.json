@@ -363,6 +363,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 27,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "ndl-kumano-kaishi",
   "work": "熊野懐紙",
@@ -375,7 +379,7 @@
   "blocks": 30,
   "chars": 3226,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 27,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T21:42:33+09:00"
